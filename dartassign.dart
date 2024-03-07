@@ -20,7 +20,7 @@ print('numbers:&numbers');
 
 //maps
 map<string,dynamic>person={
-  'name':'jane',
-  'age':'30'
+  'name':'fides',
+  'age':'34'
 };
 print('person:&person');
